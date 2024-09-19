@@ -1,0 +1,54 @@
+[
+  {
+    "date": "9 August 2024",
+    "title": "Fresher's Quiz and Club Intro",
+    "description": "Join us for the Freshers Quiz & Mind Ripple Club Introduction! This exciting event is the perfect opportunity for new students to showcase their trivia skills, learn about the Mind Ripple quizzing club, and connect with fellow quiz enthusiasts. Get ready for a fun-filled afternoon of challenging questions, interesting insights, and amazing prizes. Don't miss out on this chance to kickstart your journey with Mind Ripple!",
+    "time": "4:00 PM - 6:00 PM",
+    "image": "https://res.cloudinary.com/dnsddfhgm/image/upload/v1723038876/Adobe_Scan_Aug_07_2024_frlqql.jpg",
+    "status": "past"
+  },
+  {
+    "date": "4 April 2024",
+    "title": "Quizing League - 4 : Fan Fiction Quiz",
+    "description": "Are you ready to put your fanfiction knowledge to the test? 📚 Dive into the ultimate quiz featuring your favorite movies and TV shows! Get ready for an emotional rollercoaster ride through Friends, Marvel, DC, Transformers, and more!",
+    "time": "4:00 PM - 5:00 PM",
+    "image": "https://cloud.appwrite.io/v1/storage/buckets/66aef672000ce30b529a/files/66b577a7001eed1a7621/view?project=6655b1590031a772e3cd&mode=admin",
+    "status": "past"
+  },
+  {
+    "date": "1 Feb 2024",
+    "title": "HELM Quiz",
+    "description": "The History, Entertainment, Literature, and Music (HELM) Quiz challenges participants with questions spanning history, popular culture, literature, and music. This event features various rounds and question formats, including multiple-choice and audio-visual, to engage and test diverse knowledge. The quiz encourages participants to explore and demonstrate their understanding across these vibrant categories.",
+    "time": "4:00 PM - 6:00 PM",
+    "image": "https://cloud.appwrite.io/v1/storage/buckets/66aef672000ce30b529a/files/66b57b0d000536e087a0/view?project=6655b1590031a772e3cd&mode=admin",
+    "status": "past"
+  },
+  {
+    "date": "3-5 Nov 2023",
+    "title": "Matrix Breakout",
+    "description": "🌌 Get ready to transcend dimensions at 'Matrix Breakout,' the flagship event of Mind Ripple! 🚪🔍 Join us for a mind-bending multiversal escape room adventure with our quizzing club. Are you ready to crack the code and escape the infinite realities? 🔮",
+    "time": "4:00 PM - 6:00 PM",
+    "image": "https://cloud.appwrite.io/v1/storage/buckets/66aef672000ce30b529a/files/66b5896e00279d162a06/view?project=6655b1590031a772e3cd&mode=admin",
+    "status": "past"
+  },
+  {
+    "date": "16 August 2024",
+    "title": "Sub-Committee Recruitment",
+    "description": "Get ready to be a part of something outstanding 💪💪 From College Connects 🏫 to Grand Stage 🎤🎙️ performances, from Quizzes ❓❓ to Off Campus Representation 😱, MindRipple brings you the opportunity to be a part of an extraordinary journey.",
+    "time": "4:00 PM - 6:00 PM",
+    "image": "https://cloud.appwrite.io/v1/storage/buckets/66aef672000ce30b529a/files/66b5cd3f002518504c56/view?project=6655b1590031a772e3cd&mode=admin",
+    "registerLink": "https://forms.gle/4ehhQsQgk8p8Pes79",
+    "location": "Online",
+    "status": "past"
+  },
+  {
+    "date": "30 August 2024",
+    "title": "Quizzing League 1",
+    "description": "This isn't just another quiz - it's a year-long, mind-bending, knowledge-fueled showdown! And the best part? We're throwing the doors open to students from ALL universities! 🌍",
+    "time": "4:00 PM - 6:00 PM",
+    "image": "https://cloud.appwrite.io/v1/storage/buckets/66aef672000ce30b529a/files/66ce25f2003db48feb5a/view?project=6655b1590031a772e3cd&mode=admin",
+    "registerLink": "https://forms.gle/YoDFUBxdqWAr9MyL6",
+    "location": "C 104",
+    "status": "upcoming"
+  }
+]

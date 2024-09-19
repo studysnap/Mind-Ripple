@@ -1,0 +1,11 @@
+{
+    Data.map( record => {
+        if(record.status == "upcoming"){
+            return(
+                <div>
+                    {record.title}
+                </div>
+            )
+        }
+    })
+}   
