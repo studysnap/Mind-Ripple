@@ -7,7 +7,7 @@ function Navbar() {
             <div className="h-11 w-screen flex justify-between items-center box-border pt-2 pb-2 pl-4 pr-4 sticky left-0 top-0 z-50 bg-[linear-gradient(to_right,black,#071f8b)]">
                 <div className="cursor-default flex h-11">
                     <div className="flex items-center">
-                        <img src="/src/assets/MRLogo.png" alt="MRLogo" loading="lazy"  decoding="async" data-nimg={1} style={{ color: "transparent" }} className="h-5 w-5"/>
+                        <img src="https://drive.google.com/thumbnail?id=1Ia8zEsmZX1Ie8pMEuKcnpitqgJJwliA6&sz=w1000" alt="MRLogo" loading="lazy"  decoding="async" data-nimg={1} style={{ color: "transparent" }} className="h-5 w-5"/>
                     </div>
                     <div className="text-lg font-[bold] h-full flex items-center pl-1.5">Mind Ripple</div>
                 </div>
